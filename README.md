@@ -2,7 +2,7 @@
 
 Dataset used: https://www.kaggle.com/datasets/chetankv/dogs-cats-images
 
-Aim : The goal of the project was to build a model that recognizes the images of dogs and cats using Convolutional Neural Network.
+Aim: The project aimed to build a model that recognizes the images of dogs and cats using a Convolutional Neural Network.
 
 Conclusion:
-The model was able to recognize with the accuracy of and with the loss of 
+The model could recognize with an accuracy of 0.8610 and with a loss of 0.3122.
